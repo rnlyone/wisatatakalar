@@ -80,7 +80,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
           <!-- navbar -->
           <nav class="navbar navbar-expand-lg navbar-light header-nav-left nav-product">
             <a class="navbar-brand" href="../../">
-              <img class="logo" src="../../assets/img/logo.svg" alt="logo" />
+              <img class="logo" src="/logotakalar.png" alt="logo" />
             </a>
 
             <button class="navbar-toggler menu ripplemenu" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">

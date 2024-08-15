@@ -54,7 +54,7 @@
   <div class="item_brand">
     <div class="container">
       <a href="/">
-        <img src="/assets/img/logo-o.png" alt="">
+        <img src="/logotakalar.png" alt="">
       </a>
     </div>
   </div>
