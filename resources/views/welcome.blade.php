@@ -356,7 +356,7 @@ In your html page, add the snippet and call gtag_report_conversion when someone 
         <!-- Start Section Loader -->
         <section class="loading_overlay">
             <div class="loader_logo">
-                <img class="logo" src="/assets/img/logo.svg" />
+                <img class="logo" src="/logotakalar.png" />
             </div>
         </section>
         <!-- End. Loader -->
