@@ -38,7 +38,7 @@
                         <img src="/assets/img/charity/002.jpg" alt="">
                       </div>
                       <div class="body_blog">
-                        <a href="https://orinostudio.com/rakon-theme/html/elements/single-blog.html" class="link_blog">
+                        <a href="{{route('destinasi.show', ['destinasi' => $d->id])}}" class="link_blog">
                           <h4 class="title_blog">
                             {{$d->nama}}
                           </h4>
