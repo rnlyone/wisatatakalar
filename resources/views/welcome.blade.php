@@ -14,7 +14,7 @@
         content="HTML, CSS, JavaScript, Bootstrap, jQuery, Rakon, Themeforest, Template, envato, SASS, SCSS, HTML5, landing page, SaaS Product, SaaS Modern,  MultiPurpose, Crypto, Currency, ICO, Hosting, Agency, Mobile, App, Interior, Charity" />
     <meta name="author" content="Rakon - Creative Multi-Purpose HTML5 Templates" />
 
-    <title>WorkSpace - Creative Multi-Purpose HTML5 Templates</title>
+    <title>Wisata Takalar</title>
     <!-- favicon -->
     <link rel="shortcut icon" href="/assets/img/favicon.ico" type="image/x-icon" />
     <!-- Bootstrap 4.5 -->
