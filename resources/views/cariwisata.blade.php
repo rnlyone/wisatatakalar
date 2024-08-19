@@ -35,7 +35,7 @@
                 <div class="col-lg-4">
                     <div class="grid_blog_avatar">
                       <div class="cover_blog">
-                        <img src="/assets/img/charity/002.jpg" alt="">
+                        <img src="{{$d->cover_base64}}" alt="">
                       </div>
                       <div class="body_blog">
                         <a href="{{route('destinasi.show', ['destinasi' => $d->id])}}" class="link_blog">
